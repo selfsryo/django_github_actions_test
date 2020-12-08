@@ -1,0 +1,2 @@
+# django_github_actions_test
+DjangoにGitHub Actionsを導入してみたリポジトリ
